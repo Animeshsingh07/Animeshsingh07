@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Animeshsingh07
 - 👀 I’m interested in coding..
-- 🌱 I’m currently learning c++ ... 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning c++ ..
 - 📫 How to reach me @_i.j.d.g.a.f_ on instagram and @animeshsingh70610@gmail.com on gmail.
 
 <!---
